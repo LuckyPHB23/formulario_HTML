@@ -1,0 +1,10 @@
+legend{
+    border: 1px solid black;
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.452);
+    background: rgb(14, 68, 168);
+    color: white;
+}
+fieldset{
+    background: rgba(112, 160, 231, 0.699);
+}
